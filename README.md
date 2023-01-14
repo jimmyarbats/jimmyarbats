@@ -3,8 +3,12 @@
 </div>
 <div align="center">
   <a href="https://github.com/jimmyarbats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jimmyarbats&show_icons=true&theme=transparent"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyarbats&layout=compact&langs_count=7&theme=transparent"/>
+  <div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jimmyarbats&show_icons=true&theme=transparent"/> 
+  </div>
+  <div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyarbats&layout=compact&langs_count=7&theme=transparent"/>
+  </div>
 </div>
   
   ##
