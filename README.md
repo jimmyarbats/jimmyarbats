@@ -1,5 +1,5 @@
 <div>
-  <h1>I'm Jimmy, a front-end developer.</h1>
+  <h1>I'm Jimmy, a web developer.</h1>
 </div>
 <div align="center">
   <a href="https://github.com/jimmyarbats">
