@@ -27,6 +27,15 @@
 </div>
   
   ##
+  
+ <div style="display: inline_block">
+  <h2>In progress...</h2>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  </div>
+</div>
+  
+  ##
 
 <div style="display: inline_block">
   <h2>Contact me</h2>
