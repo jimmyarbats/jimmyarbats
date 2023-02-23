@@ -31,7 +31,7 @@
  <div style="display: inline_block">
   <h2>In progress...</h2>
   <div align="center">
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+    <img height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   </div>
 </div>
   
